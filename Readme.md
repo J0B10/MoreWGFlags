@@ -22,4 +22,4 @@ A good rule of thumb to prevent this kind of trouble is to make sure the target 
 
 ----------------
 
-**[Download release]()**
+**[>> Download release](https://github.com/joblo2213/MoreWGFlags/releases/download/v1.0/MoreWGFlags.jar)**
