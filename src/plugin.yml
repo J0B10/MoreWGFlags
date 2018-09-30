@@ -1,0 +1,7 @@
+# Help: http://bukkit.gamepedia.com/Plugin_YAML
+name: 'MoreWGFlags'
+version: '1.0'
+description: 'A flag for worldguard which forbids passing a regions border'
+author: 'ungefroren'
+main: 'de.ungefroren.worldguard.MoreWGFlags.MoreWGFlagsPlugin'
+depend: [WorldGuard]
